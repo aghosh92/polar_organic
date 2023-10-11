@@ -9,7 +9,8 @@ Notebook shows an example of how Random Forest Regression model can be trained a
 Here, the sampled dataset (data_sampled_combined.csv 
 refereed to as Dataset II in manuscript) is utilized for training only. 
 The testing is performed on the original dataset
-(data_original_compounds.csv refereed to as Dataset II in manuscript).
+(data_original_compounds.csv refereed to as Dataset II in manuscript). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghosh92/polar_organic/blob/main/Notebook_I.ipynb)
 
 Notebook shows an example implementation of importance-sampling approach which is used for generating sampled dataset for this work.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghosh92/polar_organic/blob/main/Notebook_II.ipynb)
 
